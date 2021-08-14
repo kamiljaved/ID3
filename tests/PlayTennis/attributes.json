@@ -1,0 +1,8 @@
+{
+    "1" : { "Name" : "Outlook", "ValueCount" : 3, "Values" : ["Sunny", "Overcast", "Rain"] },
+    "2" : { "Name" : "Temperature", "ValueCount" : 3, "Values" : ["Hot", "Mild", "Cool"] },
+    "3" : { "Name" : "Humidity", "ValueCount" : 2, "Values" : ["High", "Normal"] },
+    "4" : { "Name" : "Wind", "ValueCount" : 2, "Values" : ["Weak", "Strong"] },
+    "Target" : { "Name" : "PlayTennis", "ValueCount" : 3, "Values" : ["Yes", "No"] },
+    "KnownAttributeCount" : 4
+}

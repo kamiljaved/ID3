@@ -1,0 +1,203 @@
+{
+    "Training Set": {
+        "D1": {
+            "Buying": "vHigh",
+            "Maintenance": "vHigh",
+            "Doors": "2",
+            "Persons": "2",
+            "Luggage Boot": "Small",
+            "Safety": "Low",
+            "Class": "Unacceptable"
+        },
+        "D2": {
+            "Buying": "vHigh",
+            "Maintenance": "vHigh",
+            "Doors": "2",
+            "Persons": "more",
+            "Luggage Boot": "Small",
+            "Safety": "Medium",
+            "Class": "Unacceptable"
+        },
+        "D3": {
+            "Buying": "vHigh",
+            "Maintenance": "vHigh",
+            "Doors": "4",
+            "Persons": "more",
+            "Luggage Boot": "Big",
+            "Safety": "High",
+            "Class": "Unacceptable"
+        },
+        "D4": {
+            "Buying": "vHigh",
+            "Maintenance": "High",
+            "Doors": "3",
+            "Persons": "4",
+            "Luggage Boot": "Big",
+            "Safety": "Low",
+            "Class": "Unacceptable"
+        },
+        "D5": {
+            "Buying": "High",
+            "Maintenance": "vHigh",
+            "Doors": "3",
+            "Persons": "2",
+            "Luggage Boot": "Small",
+            "Safety": "Low",
+            "Class": "Unacceptable"
+        },
+        "D6": {
+            "Buying": "High",
+            "Maintenance": "Low",
+            "Doors": "4",
+            "Persons": "2",
+            "Luggage Boot": "Medium",
+            "Safety": "High",
+            "Class": "Unacceptable"
+        },
+        "D7": {
+            "Buying": "High",
+            "Maintenance": "Low",
+            "Doors": "4",
+            "Persons": "2",
+            "Luggage Boot": "Big",
+            "Safety": "Low",
+            "Class": "Unacceptable"
+        },
+        "D8": {
+            "Buying": "Medium",
+            "Maintenance": "vHigh",
+            "Doors": "2",
+            "Persons": "more",
+            "Luggage Boot": "Small",
+            "Safety": "Low",
+            "Class": "Unacceptable"
+        },
+        "D9": {
+            "Buying": "Medium",
+            "Maintenance": "vHigh",
+            "Doors": "2",
+            "Persons": "more",
+            "Luggage Boot": "Small",
+            "Safety": "Medium",
+            "Class": "Unacceptable"
+        },
+        "D10": {
+            "Buying": "Medium",
+            "Maintenance": "vHigh",
+            "Doors": "5 or more",
+            "Persons": "more",
+            "Luggage Boot": "Small",
+            "Safety": "Medium",
+            "Class": "Unacceptable"
+        },
+        "D11": {
+            "Buying": "Medium",
+            "Maintenance": "High",
+            "Doors": "2",
+            "Persons": "2",
+            "Luggage Boot": "Big",
+            "Safety": "Medium",
+            "Class": "Unacceptable"
+        },
+        "D12": {
+            "Buying": "Medium",
+            "Maintenance": "High",
+            "Doors": "2",
+            "Persons": "4",
+            "Luggage Boot": "Medium",
+            "Safety": "High",
+            "Class": "Acceptable"
+        },
+        "D13": {
+            "Buying": "High",
+            "Maintenance": "Low",
+            "Doors": "3",
+            "Persons": "more",
+            "Luggage Boot": "Medium",
+            "Safety": "Medium",
+            "Class": "Acceptable"
+        },
+        "D14": {
+            "Buying": "Medium",
+            "Maintenance": "High",
+            "Doors": "4",
+            "Persons": "more",
+            "Luggage Boot": "Medium",
+            "Safety": "Medium",
+            "Class": "Acceptable"
+        },
+        "D15": {
+            "Buying": "Medium",
+            "Maintenance": "High",
+            "Doors": "4",
+            "Persons": "more",
+            "Luggage Boot": "Medium",
+            "Safety": "Medium",
+            "Class": "Acceptable"
+        },
+        "D16": {
+            "Buying": "Low",
+            "Maintenance": "Medium",
+            "Doors": "2",
+            "Persons": "4",
+            "Luggage Boot": "Small",
+            "Safety": "Medium",
+            "Class": "Acceptable"
+        },
+        "D17": {
+            "Buying": "vHigh",
+            "Maintenance": "Medium",
+            "Doors": "2",
+            "Persons": "4",
+            "Luggage Boot": "Small",
+            "Safety": "High",
+            "Class": "Acceptable"
+        },
+        "D18": {
+            "Buying": "vHigh",
+            "Maintenance": "Medium",
+            "Doors": "2",
+            "Persons": "4",
+            "Luggage Boot": "Big",
+            "Safety": "Medium",
+            "Class": "Acceptable"
+        },
+        "D19": {
+            "Buying": "High",
+            "Maintenance": "High",
+            "Doors": "2",
+            "Persons": "4",
+            "Luggage Boot": "Big",
+            "Safety": "Medium",
+            "Class": "Acceptable"
+        },
+        "D20": {
+            "Buying": "High",
+            "Maintenance": "High",
+            "Doors": "2",
+            "Persons": "more",
+            "Luggage Boot": "Medium",
+            "Safety": "High",
+            "Class": "Acceptable"
+        },
+        "D21": {
+            "Buying": "High",
+            "Maintenance": "Medium",
+            "Doors": "2",
+            "Persons": "4",
+            "Luggage Boot": "Small",
+            "Safety": "High",
+            "Class": "Acceptable"
+        },
+        "D22": {
+            "Buying": "Low",
+            "Maintenance": "vHigh",
+            "Doors": "2",
+            "Persons": "4",
+            "Luggage Boot": "Big",
+            "Safety": "Medium",
+            "Class": "Acceptable"
+        }
+    },
+    "Validation Set": {}
+}

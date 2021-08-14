@@ -1,0 +1,61 @@
+{
+    "1": {
+        "Name": "Buying",
+        "Values": [
+            "vHigh",
+            "High",
+            "Medium",
+            "Low"
+        ]
+    },
+    "2": {
+        "Name": "Maintenance",
+        "Values": [
+            "vHigh",
+            "High",
+            "Medium",
+            "Low"
+        ]
+    },
+    "3": {
+        "Name": "Doors",
+        "Values": [
+            "2",
+            "3",
+            "4",
+            "5 or more"
+        ]
+    },
+    "4": {
+        "Name": "Persons",
+        "Values": [
+            "2",
+            "4",
+            "more"
+        ]
+    },
+    "5": {
+        "Name": "Luggage Boot",
+        "Values": [
+            "Small",
+            "Medium",
+            "Big"
+        ]
+    },
+    "6": {
+        "Name": "Safety",
+        "Values": [
+            "Low",
+            "Medium",
+            "High"
+        ]
+    },
+    "Target": {
+        "Name": "Class",
+        "Values": [
+            "Acceptable",
+            "Unacceptable"
+        ]
+    },
+    "KnownAttributeCount": 6
+}

@@ -1,0 +1,21 @@
+{
+    "Training Set" : {
+        "E1" : {"Income": "High", "Age": "Young", "Education": "University", "Marital Status": "Single", "Usage": "High"},
+        "E2" : {"Income": "Low", "Age": "Old", "Education": "University", "Marital Status": "Married", "Usage": "Low"},
+        "E3" : {"Income": "High", "Age": "Young", "Education": "College", "Marital Status": "Single", "Usage": "Medium"},
+        "E4" : {"Income": "Low", "Age": "Old", "Education": "High School", "Marital Status": "Married", "Usage": "Low"},
+        "E5" : {"Income": "Medium", "Age": "Young", "Education": "College", "Marital Status": "Married", "Usage": "Medium"},
+        "E6" : {"Income": "Medium", "Age": "Young", "Education": "College", "Marital Status": "Married", "Usage": "Medium"},
+        "E7" : {"Income": "Low", "Age": "Old", "Education": "University", "Marital Status": "Married", "Usage": "Low"},
+        "E8" : {"Income": "Medium", "Age": "Young", "Education": "College", "Marital Status": "Single", "Usage": "Medium"},
+        "E9" : {"Income": "Low", "Age": "Old", "Education": "University", "Marital Status": "Married", "Usage": "Low"},
+        "E10" : {"Income": "Medium", "Age": "Old", "Education": "High School", "Marital Status": "Single", "Usage": "Low"},
+        "E11" : {"Income": "High", "Age": "Old", "Education": "University", "Marital Status": "Single", "Usage": "High"},
+        "E12" : {"Income": "Medium", "Age": "Old", "Education": "High School", "Marital Status": "Single", "Usage": "Low"}
+    },
+
+    "Validation Set" : {
+        "D1" : {"Outlook": "Sunny", "Temperature": "Hot", "Humidity": "High", "Wind": "Weak", "PlayTennis": "No"},
+        "D2" : {"Outlook": "Sunny", "Temperature": "Hot", "Humidity": "High", "Wind": "Strong", "PlayTennis": "No"}
+    }
+}

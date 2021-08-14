@@ -1,0 +1,8 @@
+{
+    "1" : { "Name" : "Income", "ValueCount" : 3, "Values" : ["High", "Medium", "Low"] },
+    "2" : { "Name" : "Age", "ValueCount" : 2, "Values" : ["Young", "Old"] },
+    "3" : { "Name" : "Education", "ValueCount" : 3, "Values" : ["University", "College", "High School"] },
+    "4" : { "Name" : "Marital Status", "ValueCount" : 2, "Values" : ["Single", "Married"] },
+    "Target" : { "Name" : "Usage", "ValueCount" : 3, "Values" : ["High", "Medium", "Low"] },
+    "KnownAttributeCount" : 4
+}
