@@ -57,4 +57,4 @@ python main.py -a ./tests/PlayTennis/attributes.json -d ./tests/PlayTennis/data.
 ---
 
 > [kamiljaved.pythonanywhere.com](https://kamiljaved.pythonanywhere.com/) &nbsp;&middot;&nbsp;
-> GitHub [@kamiljaved98](https://github.com/kamiljaved98) &nbsp;&middot;&nbsp;
+> GitHub [@kamiljaved98](https://github.com/kamiljaved98)
